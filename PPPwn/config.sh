@@ -1,0 +1,8 @@
+#!/bin/bash
+INTERFACE="eth0" 
+FIRMWAREVERSION="11.00" 
+SHUTDOWN=true
+USBETHERNET=false
+PPPOECONN=false
+VMUSB=false
+DTLINK=false
